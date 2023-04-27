@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "sawa-backend-test"
+version = "0.1.0"
+description = "Demo project"
+authors = ["SAWA developers <developers@sawa.cl>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Django = "^4.2.0"
+django-ninja = "^0.21.0"
+
+[tool.poetry.group.dev.dependencies]
+ipython = "^8.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
