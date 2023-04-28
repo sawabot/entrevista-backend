@@ -1,0 +1,45 @@
+[
+{
+  "model": "oms.supplier",
+  "pk": 1,
+  "fields": {
+    "name": "Conagra Brands"
+  }
+},
+{
+  "model": "oms.supplier",
+  "pk": 2,
+  "fields": {
+    "name": "Amazon Fresh"
+  }
+},
+{
+  "model": "oms.supplier",
+  "pk": 3,
+  "fields": {
+    "name": "US Foods"
+  }
+},
+{
+  "model": "oms.supplier",
+  "pk": 4,
+  "fields": {
+    "name": "Gordon Food Service"
+  }
+},
+{
+  "model": "oms.supplier",
+  "pk": 5,
+  "fields": {
+    "name": "Mclane Foodservice"
+  }
+},
+{
+  "model": "oms.supplier",
+  "pk": 6,
+  "fields": {
+    "name": "C & S Wholesale Grocers"
+  }
+}
+]
+
